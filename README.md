@@ -1,8 +1,10 @@
 ## Welcome to My Basic Learning Notes
 
-Here, I put down my learing notes of basic algorithms and data structures, coded with Java. 
+Here, I put down my learing notes of basic algorithms and data structures coded with Java. 
 
- - [Merge Sort](
+### Notes
+
+ - [Merge Sort](https://hs767.github.io/BasicLearningNote-2020/MergeSort.md
 
 
 
