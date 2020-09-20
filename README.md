@@ -4,7 +4,7 @@ Here, I put down my learing notes of basic algorithms and data structures coded 
 
 ### Notes
 
- - [Merge Sort](https://hs767.github.io/BasicLearningNote-2020/MergeSort.md
+ - [Merge Sort](https://hs767.github.io/BasicLearningNote-2020/MergeSort.md)
 
 
 
